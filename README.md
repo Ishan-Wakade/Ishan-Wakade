@@ -15,6 +15,8 @@ An independent, open-source TEAS Math preparation platform built with Next.js, R
 - Includes a reviewer console, provider-neutral generation pipeline, Docker development environment, and automated unit, database, and browser tests.
 - Clearly separates working engineering from open launch requirements: the current question set is still awaiting independent content review.
 
+Start with NuraPrep's [engineering walkthrough](https://github.com/Ishan-Wakade/nuraprep/blob/main/docs/ENGINEERING_WALKTHROUGH.md) for the architecture decisions, failure modes, rebuild sequence, and current limitations.
+
 ## What I care about
 
 - Product engineering that begins with a real user workflow
