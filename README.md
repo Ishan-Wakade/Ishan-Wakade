@@ -13,7 +13,7 @@ An independent, open-source TEAS Math preparation platform built with Next.js, R
 - Delivers topic practice, a diagnostic, inspectable adaptive scheduling, a timed Math simulation, and uncertainty-aware readiness estimates.
 - Uses immutable question versions, deterministic math validation, human publication gates, source-rights controls, and auditable learner feedback.
 - Includes a reviewer console, provider-neutral generation pipeline, Docker development environment, and automated unit, database, and browser tests.
-- Clearly separates working engineering from open launch requirements: the current question set is still awaiting independent content review.
+- Clearly separates working engineering from open launch requirements: the 38-family Math bank has owner approval and deterministic release checks, while independent educator review remains open.
 
 Start with NuraPrep's [engineering walkthrough](https://github.com/Ishan-Wakade/nuraprep/blob/main/docs/ENGINEERING_WALKTHROUGH.md) for the architecture decisions, failure modes, rebuild sequence, and current limitations.
 
