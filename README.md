@@ -6,14 +6,15 @@ My work spans full-stack product engineering, applied ML, cloud systems, and the
 
 ## Featured project
 
-### [NuraPrep](https://github.com/Ishan-Wakade/nuraprep)
+### [NuraPrep](https://github.com/Ishan-Wakade/nuraprep) · [Live MVP](https://nuraprep.vercel.app)
 
-An independent, open-source TEAS Math preparation platform built with Next.js, React, TypeScript, PostgreSQL, and Drizzle.
+An independent, open-source TEAS Math preparation platform deployed on Vercel with Next.js, React, TypeScript, Neon PostgreSQL, Drizzle ORM, and Google OAuth.
 
-- Delivers topic practice, a diagnostic, inspectable adaptive scheduling, a timed Math simulation, and uncertainty-aware readiness estimates.
-- Uses immutable question versions, deterministic math validation, human publication gates, source-rights controls, and auditable learner feedback.
-- Includes a reviewer console, provider-neutral generation pipeline, Docker development environment, and automated unit, database, and browser tests.
-- Clearly separates working engineering from open launch requirements: the 38-family Math bank has owner approval and deterministic release checks, while independent educator review remains open.
+- Delivers diagnostic, topic, adaptive, and 38-question timed practice with explanation-first feedback and uncertainty-aware readiness estimates.
+- Serves 470 governed Math questions across 12 skills and four response formats using immutable versions, deterministic verification, provenance controls, and auditable publication decisions.
+- Protects learner and reviewer workflows with Google OAuth, database-backed sessions, role-based access, rate limits, account export, and transactional erasure.
+- Enforces CI, CodeQL, 303 unit/component tests, 60+ Playwright scenarios, automated accessibility checks, and cross-browser coverage.
+- Includes Docker delivery and validated AWS ECS/RDS/VPC/S3/CloudWatch Terraform as a documented, cost-gated architecture; AWS is not presented as a live deployment.
 
 Start with NuraPrep's [engineering walkthrough](https://github.com/Ishan-Wakade/nuraprep/blob/main/docs/ENGINEERING_WALKTHROUGH.md) for the architecture decisions, failure modes, rebuild sequence, and current limitations.
 
@@ -27,12 +28,16 @@ Start with NuraPrep's [engineering walkthrough](https://github.com/Ishan-Wakade/
 
 ## Technical toolkit
 
-**Languages:** Python, Java, C++, TypeScript, JavaScript, SQL  
-**Web and data:** React, Next.js, PostgreSQL, REST APIs  
-**ML and cloud:** PyTorch, Transformers, Docker, Git, Linux, Azure
+**Languages:** Python, Java, C++, TypeScript, JavaScript, SQL
+
+**Web and data:** React, Next.js, TypeScript, PostgreSQL, Drizzle ORM, server actions and route handlers
+
+**ML and cloud:** PyTorch, Transformers, Docker, AWS, Terraform, Vercel, Neon, Git, Linux, Azure
+
+**Quality and security:** Google OAuth, RBAC, Vitest, Playwright, CodeQL, accessibility testing, privacy-aware data lifecycle design
 
 ## Current focus
 
-I'm currently turning NuraPrep's working Math experience into a production-ready product while continuing to deepen my work in applied ML and reliable backend systems. I'm interested in Summer 2027 software engineering and AI/ML internship opportunities.
+I'm currently improving NuraPrep's live Math MVP, validating its educational quality, and extending its production operations while continuing to deepen my work in applied ML and reliable backend systems. I'm interested in Summer 2027 software engineering and AI/ML internship opportunities.
 
 The best place to evaluate my current engineering work is the [NuraPrep repository](https://github.com/Ishan-Wakade/nuraprep), including its architecture, roadmap, security model, tests, and documented limitations.
