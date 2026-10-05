@@ -1,43 +1,43 @@
 # Hi, I'm Ishan Wakade
 
-I'm a Computer Science student at Georgia Tech interested in building reliable software and machine-learning products that solve concrete user problems.
 
-My work spans full-stack product engineering, applied ML, cloud systems, and the less-visible engineering that makes products trustworthy: testing, observability, security boundaries, data provenance, and honest evaluation.
+EDUCATION 
+Georgia Institute of Technology, Atlanta, Georgia 							                                                                          May 2028
+Bachelor of Science in Computer Science, Threads: Artificial Intelligence and Systems & Architecture	                                GPA: 4.0/4.0
+Relevant Coursework: Computer Organization & Programming, Databases, Data Structures & Algorithms, Object-Oriented Programming, Discrete Math, Linear Algebra, Multivariable Calculus, Probability and Statistics
+Academic Honors: 6th Place, DECA Internationals; Rank #2/1024, Coppell High School; 1580 SAT
 
-## Featured project
+TECHNICAL SKILLS 
+Languages, ML/AI, Frameworks: Java, Python, TypeScript, JavaScript, C/C#, PyTorch, YOLO, Next.js, React, Spring Boot, FastAPI
+Cloud, Infrastructure & Databases: AWS, Azure, Terraform, Docker, Linux, SQL, MySQL, PostgreSQL, MongoDB
+Developer, Testing & Hardware Tools: Git, Playwright, Vitest, Gradle, Maven, Unity, ESP32, VS Code, IntelliJ, Codex, Claude Code
 
-### [NuraPrep](https://github.com/Ishan-Wakade/nuraprep) · [Live MVP](https://nuraprep.vercel.app)
+PROGRAMMING PROJECTS 
+NuraPrep — nuraprep.vercel.app — Next.js, React, TypeScript, PostgreSQL, AWS, Docker		                                                  Sep 2026
+•     Built a full-stack Math preparation platform for the ATI TEAS nursing exam utilizing Next.js, React, TypeScript, PostgreSQL, and Drizzle ORM, providing users with diagnostic assessments, adaptive practice, timed simulations, progress analytics, and transparent readiness estimates
+•     Developed an AI content pipeline utilizing verified TEAS problems on the internet to generate and validate 2K+ practice questions spanning 12 skills and 4 response formats to mimic the difficulty level, tone, and formatting of the TEAS exam’s Math section.
+•    Deployed public MVP through Vercel and Neon, incorporating Google OAuth authentication, secure database sessions, role-based administration, and privacy controls
+•    Established CI/CD with 298 Vitest unit/integration tests and 60+ Playwright end-to-end scenarios covering accessibility, mobile layouts, and cross-browser compatibility
+• Designed and validated a cost-gated cloud architecture with AWS (Lambda, ECS Fargate, RDS PostgreSQL, VPC, ALB, S3, Secrets Manager, CloudWatch, IAM), Docker, Terraform, and Stripe subscriptions for commercial launch
+PharmaSuite — Python, FastAPI, React, MongoDB Atlas, YOLO, Unity/C#, ESP32, BLE                                                           Sep 2026
+•     Co-developed pharmacy inventory platform combining wearable motion sensing and computer vision to track bottle placement, flag incorrect placements/transactions, and automate inventory management.
+•     Trained and quantized a four-class IMU classifier for ESP32 deployment, achieving 98.21% accuracy on 5,000 collected samples; integrated wristband events with YOLO pose estimation to detect incorrect shelf placement.
+•  Created a Unity pharmacy simulation with obstacle-aware movement, synchronized mock sensor events, and multiple camera views to test the CV pipeline on rendered footage.
 
-An independent, open-source TEAS Math preparation platform deployed on Vercel with Next.js, React, TypeScript, Neon PostgreSQL, Drizzle ORM, and Google OAuth.
+WORK EXPERIENCE 
+Human Centered AI Lab – Georgia Tech, Atlanta, GA — Undergraduate Research Assistant                                            Aug 2026 – Present
+•     Developing an open-source benchmark to measure Faith in Humanity, Humanism, and Kantianism across 15+ frontier and open-weight language models
+Microsoft, Dallas, TX — High School Intern		       					     	     Jun 2025 – Aug 2025
+•     Collaborated with Microsoft employees to translate a customer problem into a cloud-solution recommendation and present the proposed solution to 15+ Bay Area employees
+•     Built a Python and SQL telemetry-processing prototype on Azure, processing 25K+ records and automating 4 data-validation checks; containerized the workflow with Docker on Linux to enable reproducible deployment
+University of Texas – CARAML Lab, Dallas, TX  — Research Intern 				                       Jun 2024 – Aug 2024 
+•     Built PyTorch workflows and presented demos for 2 autonomous-driving tasks, parsing 40K+ image records (India Driving Dataset) for object detection and classification
 
-- Delivers diagnostic, topic, adaptive, and 38-question timed practice with explanation-first feedback and uncertainty-aware readiness estimates.
-- Serves 470 governed Math questions across 12 skills and four response formats using immutable versions, deterministic verification, provenance controls, and auditable publication decisions.
-- Protects learner and reviewer workflows with Google OAuth, database-backed sessions, role-based access, rate limits, account export, and transactional erasure.
-- Enforces CI, CodeQL, 303 unit/component tests, 60+ Playwright scenarios, automated accessibility checks, and cross-browser coverage.
-- Includes Docker delivery and validated AWS ECS/RDS/VPC/S3/CloudWatch Terraform as a documented, cost-gated architecture; AWS is not presented as a live deployment.
-
-Start with NuraPrep's [engineering walkthrough](https://github.com/Ishan-Wakade/nuraprep/blob/main/docs/ENGINEERING_WALKTHROUGH.md) for the architecture decisions, failure modes, rebuild sequence, and current limitations.
-
-## What I care about
-
-- Product engineering that begins with a real user workflow
-- ML systems with evaluation, uncertainty, and understandable failure modes
-- Secure data and authorization boundaries
-- Maintainable APIs, databases, tests, and deployment paths
-- Responsible AI and evidence-backed product claims
-
-## Technical toolkit
-
-**Languages:** Python, Java, C++, TypeScript, JavaScript, SQL
-
-**Web and data:** React, Next.js, TypeScript, PostgreSQL, Drizzle ORM, server actions and route handlers
-
-**ML and cloud:** PyTorch, Transformers, Docker, AWS, Terraform, Vercel, Neon, Git, Linux, Azure
-
-**Quality and security:** Google OAuth, RBAC, Vitest, Playwright, CodeQL, accessibility testing, privacy-aware data lifecycle design
-
-## Current focus
-
-I'm currently improving NuraPrep's live Math MVP, validating its educational quality, and extending its production operations while continuing to deepen my work in applied ML and reliable backend systems. I'm interested in Summer 2027 software engineering and AI/ML internship opportunities.
-
-The best place to evaluate my current engineering work is the [NuraPrep repository](https://github.com/Ishan-Wakade/nuraprep), including its architecture, roadmap, security model, tests, and documented limitations.
+LEADERSHIP AND COMMUNITY INVOLVEMENT
+State Vice President, Texas DECA                                                        					                             Mar 2025 – Feb 2026
+•     Coordinated stakeholder communication, programming, and logistics for conferences serving 1K - 7K+ Texas DECA members each
+•     Elected as 1 of 6 officers in a 28,000 member organization through a multi-stage process including a speech, popular vote, interviews, and exam
+Chapter President, Coppell High School DECA							                                                                      Aug 2023  – May 2026
+•     Directed competition preparation, recruiting, outreach, and fundraisers for 400+ member chapter
+•     Supported 190 state qualifiers and 27 international qualifiers; top 10 in Texas for both
+model, tests, and documented limitations.
