@@ -26,7 +26,7 @@ Threads: Artificial Intelligence and Systems & Architecture
 - Established CI/CD with 298 Vitest unit and integration tests and 60+ Playwright end-to-end scenarios covering accessibility, mobile layouts, and cross-browser compatibility.
 - Designed and validated a cost-gated cloud architecture with AWS (Lambda, ECS Fargate, RDS PostgreSQL, VPC, ALB, S3, Secrets Manager, CloudWatch, IAM), Docker, Terraform, and Stripe subscriptions for commercial launch.
 
-### PharmaSuite
+### [PharmaSuite](https://github.com/mao-christopher/PharmaSuite)
 *Python, FastAPI, React, MongoDB Atlas, YOLO, Unity/C#, ESP32, BLE · Sep 2026*
 
 - Co-developed a pharmacy inventory platform combining wearable motion sensing and computer vision to track bottle placement, flag incorrect placements and transactions, and automate inventory management.
