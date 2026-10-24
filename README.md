@@ -16,7 +16,7 @@ Threads: Artificial Intelligence and Systems & Architecture
 - **Developer, testing, and hardware tools:** Git, Playwright, Vitest, Gradle, Maven, Unity, ESP32, VS Code, IntelliJ, Codex, Claude Code
 
 ## Programming Projects
-### [CaughtIn4K]([https://nuraprep.vercel.app](https://github.com/Ishan-Wakade/Caught_in_4K))
+### [CaughtIn4K](https://github.com/Ishan-Wakade/Caught_in_4K)
 *Python, TypeScript, Jev, Claude API, OpenAI CLIP, YOLO, ElevenLabs, PostgreSQL · Oct 2026*
 
 - Co-developed workflow allowing small businesses to audibly inform customers of whether to throw away, recycle, or compost their waste products as they approach waste bins
