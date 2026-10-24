@@ -16,6 +16,13 @@ Threads: Artificial Intelligence and Systems & Architecture
 - **Developer, testing, and hardware tools:** Git, Playwright, Vitest, Gradle, Maven, Unity, ESP32, VS Code, IntelliJ, Codex, Claude Code
 
 ## Programming Projects
+### [CaughtIn4K]([https://nuraprep.vercel.app](https://github.com/Ishan-Wakade/Caught_in_4K))
+*Python, TypeScript, Jev, Claude API, OpenAI CLIP, YOLO, ElevenLabs, PostgreSQL · Oct 2026*
+
+- Co-developed workflow allowing small businesses to audibly inform customers of whether to throw away, recycle, or compost their waste products as they approach waste bins
+- Utilized OpenAI’s CLIP to classify all waste products in the room into existing categories with Jev to classify new item types
+- Demonstrated prototype and website/dashboard with only $8 speaker, surveillance camera, laptop, and ElevenLabs’ voice API
+- Won 3rd place in HackHarvard’s Sustainability main track, winning $300+ in prizes
 
 ### [NuraPrep](https://nuraprep.vercel.app)
 *Next.js, React, TypeScript, PostgreSQL, AWS, Docker · Sep 2026*
@@ -38,7 +45,9 @@ Threads: Artificial Intelligence and Systems & Architecture
 ### Undergraduate Research Assistant · Human Centered AI Lab, Georgia Tech
 *Atlanta, GA · Aug 2026–Present*
 
-- Developing an open-source benchmark to measure Faith in Humanity, Humanism, and Kantianism across 15+ frontier and open-weight language models.
+- Developing new methodologies for training data attribution in open-sourced models without influence functions
+- Creating steering vector representations of various skills within an LLM’s activation space utilizing O*NET job database
+
 
 ### High School Intern · Microsoft
 *Dallas, TX · Jun 2025–Aug 2025*
